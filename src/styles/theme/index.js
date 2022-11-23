@@ -4,6 +4,7 @@ export const Colors= {
     secondary:'#267326', //green 
     light_green: '#79d279',
     white: '#ffffff',
+    danger : '#e62e00',
     /*danger:'',
     warning:'',
     

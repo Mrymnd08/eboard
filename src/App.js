@@ -7,6 +7,7 @@ import Banner from './components/banner';
 import SlideShow from './components/slideshow';
 import Footer from './components/footer';
 import AppBar from './components/appbar/appBar';
+import TutorialMenu from './components/TutorialMenu';
 function App() {
   useEffect(() =>{
     document.title = "E-Board - Home"
@@ -23,6 +24,7 @@ function App() {
       < Banner />
       <SlideShow/>
       <Footer/>
+      <TutorialMenu/>
     </Container>
     </ThemeProvider>
     
